@@ -1,0 +1,19 @@
+Assignment 3  -  STOCK MARKET STRATEGY PREDICTION
+
+EDA on a dataset of STOCK MARKET data, to show strategies such as Buy and Hold, BackTesting, In Sample, Out Sample.
+
+
+There are two tasks: (a) paper reading and (b) Exploratory Data Analysis (EDA). In (a), you will read the assigned article and write a short summary of your takeaways. The takeaways are ideas that you will do in the EDA or in future analysis. 
+
+Module 3: Exploratory Data Analysis - Stock Market Data
+
+Below is the instruction for (b):
+
+- Select three stock symbols.
+- Design at least three trading strategies, one of which is the buy-and-hold strategy.
+- Performance in-sampling backtesting for your three trading strategies for each stock. Try to conduct iteratively to get the best trading performance.
+- Conclude the best trading rule. Perform the out-of-sample test. 
+- Submit in the HTML format.  
+
+Technical indicators, along with other variables such as news text data, can be used as features in a machine learning model.
+In this assignment you will become more familiar with technical indicators. You will research technical indicators and how to create trading rules. You will understand technical anomalies which provide the trading opportunities.
