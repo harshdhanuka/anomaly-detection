@@ -1,0 +1,30 @@
+Assignment 11  -  LOAN DEFAULT DETECTION  -  SHAP Values Interpretation
+
+Summary Plot, Dependence Plot, Force Plot
+
+These are two part assignments. Part 1 is a report that you will walk us through the deployment process. Part 2 will be a discussion that you will engage in with your classmates.
+
+Part 1:
+
+You will apply the SHAP Values in the article "Explain Your Model with the SHAP Values (Links to an external site.)" to your mortgage probability of default modeling data set (with your variables/features).  
+
+In this homework assignment you do not need to use the KernelExplainer to produce the SHAP values, as outlined in the article "Explain Any Models with the SHAP Values -- Use the KernelExplainer (Links to an external site.)". 
+It will take very long time to run the code, that's why you do not need to work on this part. 
+However, you are strongly recommended to test the method.
+
+Scikit-learn decision tree methods need appropriate variable transformation including missing imputation or categorical binning, etc. 
+Please see "Avoid These Deadly Modeling Mistakes that May Cost You a Career (Links to an external site.)". If you are more familiar with R dplyr, you can prepare your modeling data in R, save as a .csv file, then just use scikit-learn for the SHAP Values.
+Please use the top variables learned from your previous H2O models (RF, GBM) to run your scikit-learn random forest model.
+
+Please provide the following plots:
+- The summary_plot
+- The dependence_plot
+- The force_plot for 4 individual observations
+
+Interpretation is essential. You will provide extensive descriptions for your top 5 variables.
+
+The variable dictionary of this dataset does not provide much economic meaning. For those variables that you really cannot find more economic meanings, you can still say the relationships between the target and the predictors such as "AP003 shows a positive/megative relationship with the target variable".
+
+If your dataset is large, please take 10% or 20% samples.
+
+The random forest of scikit-learn needs you to create dummy variables for your categorical variables. For example if you have a variable with 4 categories, you will have 3 dummy variables. Each one has a value of 1 or 0. The 3 variables will enter your scikit-learn random forest model.
