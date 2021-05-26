@@ -1,0 +1,29 @@
+Assignment 7  -  HEALTHCARE INSURANCE CLAIM FRAUD DETECTION - Autoencoders and iForest - Unsupervised Learning
+
+Performed Autoencoder Modeling and iForest analysis on the Healthcare dataset, to identify anomalies or fraud, also tuned Hyper Parameters, and used Average Method to get results.
+
+
+In Module 1-4 you have carefully created features and have done the exploratory data analysis (EDA). Now you will use either the credit card dataset or the healthcare dataset to perform the unsupervised learning. 
+
+Please use the following two algorithms in PyOD to apply to your dataset.
+- Autoencoder
+- iForest
+
+Because your audience may not be familiar with the above two methods, please provide a short description to explain each one.
+Your analysis should provide a clear description for each of the algorithm and the results.
+- Your code should be free of any error messages.
+- Carefully inspect the summary statistics. 
+- Provide the size (both in count and in %) of your anomalous cases.
+- Justify your identification for the anomalies with the data attributes.
+
+Guiding Questions for the Report
+- Use a Jupyter or R Notebook to document your analysis. 
+- Each technique mentioned above should be one section in your analysis. 
+- Organize your notebook according to the above sections.
+
+For each section please do the following:
+
+- What is the method? Describing the technique in 2-3 sentences
+- What is your model? Performing the analysis
+- Where are the outliers?
+- What is the business insight? Interpret the outliers found in the analysis.
