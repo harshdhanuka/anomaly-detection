@@ -1,0 +1,31 @@
+Assignment 1
+
+There are two tasks: (a) paper reading and (b) Exploratory Data Analysis (EDA). In (a), you will read the assigned article and write a short summary of your takeaways. The takeaways are ideas that you will do in the EDA or in future analysis. 
+
+ 
+Part 1. (a):
+
+one-minute presentation about the take-aways of your paper reading
+
+Part 1. (b):
+
+two-minute presentation for the EDA Executive Summary. The Executive Summary describes the insights that your features enabled and its business implications in the industry. This Executive Summary is based on the conclusions of your report.
+Note: Please make sure you don’t reveal your code in your video presentation.
+ 
+
+In (b), you will conduct an exhaustive Exploratory Data Analysis on the provided dataset. You will create new features and structure your EDA for different leads with sub-sections. Write a short summary of the features that you built the insight that they afforded at the end of each sub-section. Please submit in the HTML format.  
+
+- Please create at least 20 features (variables). Note that the 20 features cannot be of the same kind such as Week 1, 2 to 20. You still can create a few variables of the same kind such as (Week 1,2,3), as it is always the case in the industry.
+- For each feature, explain why you believe it is a good feature to identify anomalies. This dataset has no target variable, so this will be an unsupervised ML model. Imagine your features will be used in an unsupervised ML model (you do not need to do the modeling in this assignment), explain why the features you created can identify anomalies.
+
+
+Analysis: your EDA
+- The quality of your features will be the focus of this assignment. Quality means information content. A large part of the success of your model is on the features, not just the algorithm you choose. You can create 1,000 variables but none of them can be useful. So please try to create features that will be insightful.
+- R or Python code
+- Write your logic clearly in your Jupyter notebook markdown. Treat your notebook with an article. Tell us the reason why you want to do a certain step and the sub-conclusions.
+- Make the best use of the markdown area. Write your analysis, not just comment on the code in the markdown area. 
+- Comment your code appropriately in the code area. A good coding practice provides sufficient comments in the code. If there is no code comment, even a good programmer cannot recognize the rationale of the code after one year.  Remember, commenting is as essential as code elegancy. 
+- Treat a notebook as an article. Try to keep it neat. Do not print out a large data frame. Do not print an image that is out of the boundary, etc. When you have multiple graphs to show, try to adjust the graph size so your notebook is visually pleasing.
+- Put your name at the beginning of your analysis.
+- Save your file with your name.
+- Save your file as an HTML file. It is fine that you submit both the ipynb and HTML files. We do not accept a .pynb file alone.
