@@ -1,0 +1,14 @@
+Assignment 9  -  LOAN DEFAULT DETECTION  -  GMB, Gradient Boosting using H2O, and DEEP LEARNING - Supervised Learning
+
+Performed GBM Modelling, and Deep Learing on the Loan Default Dataset, to identify likeliness of the loan defaults.
+
+
+In this Module you will build (1) the GBM (Gradient Boosting Machine) model and (2) the Deep Learning with the mortgage probability of default data.
+
+The criteria include ROC and the cumulative Lift. 
+Make sure you read the H2O documentation for the hyper-parameters to test accordingly. 
+You also can select or drop the variables to improve the model performance.
+
+If your model training time is long, consider use a small percentage of random samples of the data to build your model.
+
+In your video presentation you only need to present the final set of hyper-parameters that deliver the best outcome.
