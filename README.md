@@ -21,3 +21,7 @@ random forest, rf with h2o, undersampling, oversampling, GBM, DEEP LEARNING
 GLM, regularization, balanced classes
 AUTO ML, AML
 
+
+SHAP Values - Summary Plot, Dependence Plot, Force Plot
+
+
