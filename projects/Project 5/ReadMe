@@ -1,0 +1,22 @@
+Assignment 5  -  HEALTHCARE INDUSTRY INSURANCE CLAIM FRAUD - k Means CLUSTERING - UNSUPERVISED LEARNING
+
+
+k means CLUSTERING has been performed on this dataset, to identify those clusters which are outliers and have anomalies.
+
+
+
+Part 1 is a report that you will build on Jupyter or R Notebook. Part 2 will be a discussion that you will engage in with your classmates.
+
+There is no reading assignment.
+You still have the video presentation as before.
+The dataset is the healthcare data.
+You will provide the following:
+your improved/revised features,
+K-means clustering and
+your analysis of why you identify those providers as anomalous.
+It is common that you test a range of the number of clusters from 5 to 10.
+It is common that you test and carefully select variables for the K-means.
+Remember to standardize your variables.
+You may want to create new variables.
+Expect to identify a small cluster to be labeled as suspicious. The size of the cluster shall not be large -  does that make sense if you claimed more than X% (such as 10%) are a fraud? 
+Please work on the explanations of why the particular cluster(s) are anomalous. You will use the average statistics of the variables of that cluster, which is the cluster centroid, to defend your claim. If the average statistics of the cluster are much higher than those of other clusters, you can form the opinions that those providers in the cluster deserve careful inspection.
