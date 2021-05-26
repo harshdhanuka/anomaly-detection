@@ -1,0 +1,23 @@
+Assignment 2
+
+There are two tasks: (a) paper reading and (b) analysis: Exploratory Data Analysis (EDA), model building and the gains table. In (a), you will read the assigned article and write a short summary of your takeaways. The takeaways are ideas that you will do in the EDA or in future analysis. 
+
+In (b), you will build a simple decision tree model or a logistic regression model, conduct the Exploratory Data Analysis on the provided dataset, and produce the gains table. You will structure your analysis for different leads with sub-sections. Write a short summary of the features that you built and the insight that they afforded at the end of each sub-section. Please submit in the HTML format.  
+
+Lead: Write about what you are going to do in two to three sentences.
+
+Steps:
+- Note the target variable is "loan_default"
+- Due to a large number of variables, in this exercise, you can build a simple decision tree for variable selection. Please select a sufficient number of variables and justify your decision. Remember to do data split for train and test first. The test dataset is not used in any EDA.
+- Show your EDAs for the top 15 variables. Write down the business insights for the variables. What is business insight? How does this feature help prediction?
+- Apply your model prediction to produce a gains table. 
+- An important aspect of this course is to acquire hands-on coding skills. 
+I have written several articles on Data Visualization to assist you. In the article "Use Seaborn to Do Beautiful Plots Easy (Links to an external site.)", 
+I said quite often in your EDA you need to show:
+
+- the distribution of X, and
+- the distribution of Y by another categorical variable X, and
+- the interactions of two or three variables.
+
+So apply the code to your analysis.
+
