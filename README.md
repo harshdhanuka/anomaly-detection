@@ -11,4 +11,10 @@ Undertaken Tasks:
 
 
 Used many different EDA techniques, and PyOD Python Outlier Detection models, such as:
+
+UNSUPERVISED MACHINE LEARNING
 k-means clustering, kNN, PCA, Autoencoder, iForest
+
+
+SUPERVISED MACHINE LEARNING
+random forest, rf with h2o, undersampling, oversampling, 
