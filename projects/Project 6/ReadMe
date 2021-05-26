@@ -1,0 +1,25 @@
+Assignment 6  -  HEALTHCARE INSURANCE CLAIM FRAUD DETECTION - kNN and PCA - Unsupervised Learning
+
+Performed kNN CLustering and PCA analysis on the Healthcare dataset, to identify anomalies or fraud, also tuned Hyper Parameters, and used Average Method to get results.
+
+
+
+In Module 1-4 you have carefully created features and have done the exploratory data analysis (EDA). Now you will use either the credit card dataset or the healthcare dataset to perform the unsupervised learning.
+
+Like previous assignments, these are two part assignments. Part 1 is a report that you will build on Jupyter or R Notebook. Part 2 will be a discussion that you will engage in with your classmates.
+
+- There is no reading assignment.
+- You still have the video presentation as before.
+- You will provide the following:
+
+
+- Your improved/revised features,
+- Use two PyOD methods - KNNs, PCA (Reference article (Links to an external site.))
+- Explain what KNNs and PCA are.
+- Your analysis why you identify those providers as anomalous.
+- It is common that you test different hyper-parameters to get a more satisfactory results.
+- Remember to standardize your variables.
+- Expect to identify a small cluster to be labeled as suspicious. The size of the cluster shall not be large -  does that make sense if you claimed more than X% (such as 10%) are fraud? 
+- Please work on the explanations why the particular cluster(s) are anomalous. You will use the average statistics of the variables of that cluster to defense your claim. If the average statistics of the cluster are much higher than those of other clusters, you can form the opinions that those providers in the cluster deserve careful inspection.
+
+
