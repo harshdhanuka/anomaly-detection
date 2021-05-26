@@ -1,0 +1,14 @@
+Assignment 12  -  PRODUCTION AND MAINTENANCE
+
+Proposal for Model Maintenance, and Receiving updates from the model based on the parameters and thresholds.
+
+
+Given that we now know our dataset domains (finance, machines, insurance, credit cards), we would like you to propose a monitoring dashboard. Limit your number of variables to 10.
+
+Propose your model performance monitoring plan. Your plan shall include the following:
+
+Model (This is the major part of your discussion.)
+System
+Service
+Production Cost
+
