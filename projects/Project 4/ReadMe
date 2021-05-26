@@ -1,0 +1,26 @@
+Assignment 4  -  HEALTHCARE INDUSTRY INSURANCE CLAIM FRAUD
+
+EDA for a dataset on HEALTHCARE INDUSTRY INSURANCE CLAIMS, to later predict fraud in claims.
+
+
+
+There are two tasks: (a) paper reading and (b) Exploratory Data Analysis (EDA). In (a), you will read the assigned article and write a short summary of your takeaways. The takeaways are ideas that you will do in the EDA or in future analysis. 
+
+In (b), you will conduct an exhaustive Exploratory Data Analysis on the provided dataset. You will create new features and structure your EDA for different leads with sub-sections. Write a short summary of the features that you built and insight that they afforded at the end of each sub-section. Please submit in the HTML format.  
+
+Lead: Write about what you are going to do in two to three sentences.
+
+Analysis: your EDA
+- Conclusion: What is business insight? How can this feature help prediction?
+- R code used
+- An important aspect of this course is to acquire hands-on coding skills. 
+
+I have written several articles on Data Visualization to assist you. 
+In the article "Use Seaborn to Do Beautiful Plots Easy (Links to an external site.)", 
+I said quite often in your EDA you need to show:
+
+- the distribution of X, and
+- the distribution of Y by another categorical variable X, and
+- the interactions of two or three variables.
+
+So apply the code to your analysis.
