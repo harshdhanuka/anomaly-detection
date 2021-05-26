@@ -18,3 +18,6 @@ k-means clustering, kNN, PCA, Autoencoder, iForest
 
 SUPERVISED MACHINE LEARNING
 random forest, rf with h2o, undersampling, oversampling, GBM, DEEP LEARNING
+GLM, regularization, balanced classes
+AUTO ML, AML
+
