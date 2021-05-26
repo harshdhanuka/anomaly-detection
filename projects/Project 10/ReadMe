@@ -1,0 +1,11 @@
+Assignment 10  -  LOAN DEFAULT DETECTION  -  GLM, Generalized Linear Model, with Balanced Classes, Regularization, without Regularization, 
+and AUTO ML, AML - Supervised Learning
+
+
+In this Module you will build (1) the GLM model and (2) the  autoML with the mortgage probability of default data.
+
+The criteria include ROC and the cumulative Lift. 
+Make sure you read the H2O documentation for the hyper-parameters to test accordingly. 
+You also can select or drop the variables to improve the model performance.
+
+In your video presentation you only need to present the final set of hyper-parameters that deliver the best outcome.
